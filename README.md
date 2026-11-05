@@ -4,70 +4,35 @@
 
 #
 
-Me chamo Rafael de Paula, moro em Jacareí - SP e atualmente curso o 4º semestre de Análise e Desenvolvimento de Sistemas no IFSP. Sou apaixonado por tecnologia e IA, com foco em desenvolvimento Python, modelos de linguagem e, atualmente, expandindo para Java.
- 
-#
-
 <img align="right" alt="beweird" height="190px" src="./src/beweird.jpg">
+
+Me chamo Rafael de Paula, moro em Jacareí - SP e atualmente curso o 4º semestre de Análise e Desenvolvimento de Sistemas no IFSP[cite: 3]. Sou apaixonado por tecnologia e IA, com foco em desenvolvimento Python, modelos de linguagem e, atualmente, expandindo para Java[cite: 3, 5].
+
+<br/>
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:rafaeldepauladev5@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](https://mail.google.com/mail/?view=cm&fs=1&to=rafaeldepauladev5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rafael-de-paula-80184b360/)
+
+<br/>
 
 <h3 align="left">My Stack ~</h3>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
+<p align="left">
+  <img alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</p>
 
 <br/><br/>
-#
+
+---
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/rafaeldevpaula/github-stats-extended">
@@ -75,7 +40,7 @@ Me chamo Rafael de Paula, moro em Jacareí - SP e atualmente curso o 4º semestr
   </a>
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <picture>
